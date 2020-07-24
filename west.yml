@@ -1,0 +1,11 @@
+manifest:
+  remotes:
+    - name: henrikbrixandersen
+      url-base: https://github.com/henrikbrixandersen
+  projects:
+    - name: zephyr
+      remote: henrikbrixandersen
+      revision: c00e86e41e0b1bf89866b06271015dc404ea0a66
+      import: true
+  self:
+    path: zybo
